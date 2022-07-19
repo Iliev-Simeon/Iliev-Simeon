@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Iliev-Simeon
+- 👀 I’m interested in programming development with JavaScript
+- 🌱 I’m currently learning JavaScript in Software University in Bulgaria
+- 📫 How to reach me: iliev.simeon94@gmail.com
+- You can find me in LinkedIn: https://www.linkedin.com/in/simeon-iliev-7b8a97244/
